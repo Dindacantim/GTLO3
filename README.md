@@ -1,10 +1,10 @@
-# GTLO3
+# GTLO
 crack efbehhh
 
 $ git clone https://github.com/Dindacantim/GTLO3
 
-$ cd GTLO3
+$ cd GTLO
 
 $ git pull
 
-$ python GTLO3.py
+$ python GTLO.py
